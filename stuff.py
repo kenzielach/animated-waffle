@@ -6,3 +6,5 @@ print(test[0])
 print('hello world')
 
 print('goodbye for now')
+
+print('I like cheese')
