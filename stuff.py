@@ -5,4 +5,4 @@ print(test[0])
 
 print('hello world')
 
-print('goodbye')
+print('goodbye for now')
