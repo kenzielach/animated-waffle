@@ -4,3 +4,5 @@ test = np.array([1,2,3])
 print(test[0])
 
 print('hello world')
+
+print('goodbye')
